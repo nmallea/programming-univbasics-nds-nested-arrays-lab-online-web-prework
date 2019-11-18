@@ -17,7 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  assembled_matrix = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  assembled_matrix = [ENNET_HOUSE.sort, ENFIELD_TENNIS_ACADEMY.sort]
 end
 
 def array_literal_matrix
