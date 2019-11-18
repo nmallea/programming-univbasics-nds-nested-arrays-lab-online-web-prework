@@ -17,9 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  assembled_matrix = {
-    
-  }
+  assembled_matrix =[]
 end
 
 def array_literal_matrix
